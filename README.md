@@ -33,8 +33,7 @@ The repositories are currently private due to ongoing research work and planned 
 - **ICTAI study** – TACLA architecture for teacher training simulations  
   https://github.com/m-zamoj/ICTAI
 
-Please contact the author to obtain access.
-Contact via GitHub Issues or email <monika.zamojska.stud@pw.edu.pl>
+Contact via GitHub Issues or email <monika.zamojska.stud@pw.edu.pl> to obtain access.
 
 ---
 
