@@ -1,0 +1,3 @@
+[submodule "ACIIDS"]
+	path = ACIIDS
+	url = https://github.com/m-zamoj/ACIIDS.git
