@@ -4,3 +4,6 @@
 [submodule "CogSci"]
 	path = CogSci
 	url = https://github.com/m-zamoj/CogSci.git
+[submodule "PACLIC"]
+	path = PACLIC
+	url = https://github.com/m-zamoj/PACLIC.git
